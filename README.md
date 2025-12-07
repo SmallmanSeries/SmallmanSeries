@@ -1,4 +1,9 @@
-## Hi there 👋
+## Smallman Series Studio's Official Account
+
+A Smallman Fell From Sky!!!
+Two Smallmen Risen From Ground!!!!!!
+Three Smallmen Spawned!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+Four Smallmen Said: "Ah, Dead"!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
 <!--
 **SmallmanSeries/SmallmanSeries** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
