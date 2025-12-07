@@ -1,8 +1,11 @@
 ## Smallman Series Studio's Official Account
 
-A Smallman Fell From Sky!!!\n
-Two Smallmen Risen From Ground!!!!!!\n
-Three Smallmen Spawned!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\n
+A Smallman Fell From Sky!!!
+
+Two Smallmen Risen From Ground!!!!!!
+
+Three Smallmen Spawned!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
 Four Smallmen Said: "Ah, Dead"!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
 <!--
