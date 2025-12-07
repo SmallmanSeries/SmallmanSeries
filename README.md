@@ -1,4 +1,4 @@
-## 小人系列工作室
+## 小人系列工作室 (Smallman Series Studio)
 一个小人掉下来了！　|　[A Smallman Fell From Sky!](README_English.md)
 ### 简介
 小人系列工作室，简称小人系列，是一个基于架空世界观的游戏、动画工作室。当前仅有 冒险家岐哥 与 SdF隐姓埋名 两位成员。
